@@ -36,5 +36,5 @@ I am a very curious and passionate person
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraleehollande&layout=compact&count_private=true&theme=gruvbox" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lauraleehollande&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lauraleehollande&theme=gruvbox&v=2" />
 
