@@ -2,7 +2,7 @@
 
 I am a student at Algosup since September 2020.
 
-I am a very curious and passionate person
+I am a very curious and passionate person, please do not hesite to have a look on my [Moonshot project](https://github.com/lauraleehollande/My-Moonshot-Project).
 
 ### Languages I'm learning
 
@@ -28,8 +28,3 @@ I am a very curious and passionate person
 ##  ⚡ My GitHub Stats
 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=lauraleehollande&show_icons=true&count_private=true&theme=gruvbox" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraleehollande&layout=compact&count_private=true&theme=gruvbox" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lauraleehollande&theme=gruvbox&v=2" />
-
