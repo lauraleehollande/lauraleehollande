@@ -1,6 +1,6 @@
 ### Hi I am Laura-Lee Hollande 👋
 
-I am a student at Algosup since September 2020.
+I am a student at ALGOSUP since September 2020.
 
 I am a very curious and passionate person, please do not hesite to have a look on my [Moonshot project](https://github.com/lauraleehollande/My-Moonshot-Project).
 
