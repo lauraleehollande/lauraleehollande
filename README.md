@@ -1,30 +1,98 @@
-### Hi I am Laura-Lee Hollande 👋
+<h1 align="center">Hi 👋, I'm Laura-Lee Hollande</h1>
+<h3 align="center">I am a student at ALGOSUP since September 2020. I am a very curious and passionate person.</h3>
 
-I am a student at ALGOSUP since September 2020.
+- 🔭 I’m currently working on [Moonshot project](https://github.com/lauraleehollande/My-Moonshot-Project)
 
-I am a very curious and passionate person, please do not hesite to have a look on my [Moonshot project](https://github.com/lauraleehollande/My-Moonshot-Project).
+- 🌱 I’m currently learning **Unreal engine and C++**
 
-### Languages I'm learning
+- 📫 How to reach me **laura-lee.hollande@algosup.com**
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Angular](https://img.shields.io/badge/-angular-%231572B6?style=for-the-badge&logo=angular&logoColor=ffffff)
-![GO](https://img.shields.io/badge/-go-%231572B6?style=for-the-badge&logo=go&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-python-%231572B6?style=for-the-badge&logo=python&logoColor=ffffff)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/laura-lee-hollande-278345198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura-lee hollande" height="30" width="40" /></a>
+</p>
 
-### Frameworks & Libraries
-![NPM](https://img.shields.io/badge/-npm-%231572B6?style=for-the-badge&logo=npm&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-node.js-%231572B6?style=for-the-badge&logo=node.js&logoColor=ffffff)
+<h3 align="left">Skills:</h3>
+<h4 align="left">Programming Languages:</h4>
+<p align="left">
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
 
-### IDEs & Editors
+<h4 align="left">Frontend Development:</h4>
+<p align="left">
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+</p>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h4 align="left">Backend Development:</h4>
+<p align="left">
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+</p>
 
-### Tech
+<h4 align="left">Mobile App Development:</h4>
+<p align="left">
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+</p>
 
-![Github](https://img.shields.io/badge/-Github-%181717?style=for-the-badge&logo=github&logoColor=ffffff)
+<h4 align="left">AI/ML:</h4>
+<p align="left">
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+</p>
+
+<h4 align="left">Database:</h4>
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+</p>
+
+<h4 align="left">Data Visualization:</h4>
+<p align="left">
+<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> 
+</p>
+
+<h4 align="left">Devops:</h4>
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+</p>
+
+<h4 align="left">Backend as a Service(BaaS):</h4>
+<p align="left">
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+</p>
+
+<h4 align="left">Framework:</h4>
+<p align="left">
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+</p>
+
+<h4 align="left">Software:</h4>
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> 
+</p>
+
+<h4 align="left">Game Engines:</h4>
+<p align="left">
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+</p>
 
 ##  ⚡ My GitHub Stats
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=lauraleehollande&show_icons=true&count_private=true&theme=gruvbox" />
+<p>
+<!-- <img align="left"  src="https://github-readme-stats.vercel.app/api?username=lauraleehollande&show_icons=true&count_private=true&theme=gruvbox" /> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauraleehollande&show_icons=true&locale=en" alt="lauraleehollande" /></p>
+
